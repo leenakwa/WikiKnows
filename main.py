@@ -145,4 +145,3 @@ if __name__ == "__main__":
     else:
         # Если цикла нет, запускаем через asyncio.run
         asyncio.run(run_bot())
-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
