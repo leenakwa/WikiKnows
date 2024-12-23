@@ -6,7 +6,6 @@ import nest_asyncio
 import asyncio
 from datetime import datetime
 
-# Замените на ваш токен бота
 BOT_TOKEN = "7872085789:AAHb1QdgDa95U1BqJfuBFjY66vSwfdrAmLU"
 
 # Список подписчиков
