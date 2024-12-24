@@ -8,7 +8,7 @@ from datetime import datetime
 from datetime import timedelta
 
 # Замените на ваш токен бота
-BOT_TOKEN = "7872085789:AAHb1QdgDa95U1BqJfuBFjY66vSwfdrAmLU"
+BOT_TOKEN = ""
 
 
 # Список подписчиков
